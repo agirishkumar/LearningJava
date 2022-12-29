@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4c78dd9-d9ce-42d9-8830-23e73dc37ace" name="Changes" comment="hello world">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Age.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutoBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BitwiseOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShiftOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormattedOutputPrintf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormattingDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,37 +45,37 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ternary">
-    <configuration name="AutoBoxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AutoBoxing" />
+  <component name="RunManager" selected="Application.FormattingDate">
+    <configuration name="BufferReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferReaderDemo" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitwiseOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitwiseOperations" />
+    <configuration name="BufferReaderdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferReaderdemo" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShiftOperators" />
+    <configuration name="FormattedOutputPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormattedOutputPrintf" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ternary" />
+    <configuration name="FormattingDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormattingDate" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestInstanceOf" />
+    <configuration name="ScannerDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerDemo2" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ternary" />
-        <item itemvalue="Application.AutoBoxing" />
-        <item itemvalue="Application.TestInstanceOf" />
-        <item itemvalue="Application.ShiftOperators" />
-        <item itemvalue="Application.BitwiseOperations" />
+        <item itemvalue="Application.FormattingDate" />
+        <item itemvalue="Application.FormattedOutputPrintf" />
+        <item itemvalue="Application.BufferReaderDemo" />
+        <item itemvalue="Application.BufferReaderdemo" />
+        <item itemvalue="Application.ScannerDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671579144775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hello world">
+      <created>1672271251956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672271251956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
