@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4c78dd9-d9ce-42d9-8830-23e73dc37ace" name="Changes" comment="io, formatting">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+    <list default="true" id="d4c78dd9-d9ce-42d9-8830-23e73dc37ace" name="Changes" comment="arrays">
+      <change afterPath="$PROJECT_DIR$/src/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalcStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberAsText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.NumberAsText">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="LearningJava" />
@@ -49,29 +52,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BufferReaderDemo" />
+    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calc" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferReaderdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BufferReaderdemo" />
+    <configuration name="CalcStat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcStat" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattedOutputPrintf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FormattedOutputPrintf" />
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOdd" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormattingDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FormattingDate" />
+    <configuration name="NumberAsText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberAsText" />
       <module name="LearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberAsText" />
+        <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="Application.CalcStat" />
+        <item itemvalue="Application.Calc" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.FormattingDate" />
-        <item itemvalue="Application.FormattedOutputPrintf" />
-        <item itemvalue="Application.BufferReaderDemo" />
-        <item itemvalue="Application.BufferReaderdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672275144815</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arrays">
+      <created>1672711000607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672711000607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
     <MESSAGE value="io, formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="io, formatting" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
 </project>
