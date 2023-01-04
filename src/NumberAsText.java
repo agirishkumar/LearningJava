@@ -1,6 +1,10 @@
 import java.util.Map;
 import java.util.Scanner;
 
+/*
+*  Write method String numberAsText(int) which, for a given positive number, converts
+the respective digits into corresponding text
+* */
 public class NumberAsText {
 
     static String numberastext(int n){
